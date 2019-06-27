@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: Hello Slate API
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
